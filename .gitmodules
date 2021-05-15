@@ -2,3 +2,4 @@
 	path = xv6-labs-2020
 	url = https://github.com/BASARANOMO/xv6-labs-2020
 	util = origin/util
+	branch = util
